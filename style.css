@@ -1,0 +1,80 @@
+.caro-1-bg{
+  background-color: #ff004c;
+}
+
+.carousal-half{
+  width: 640px;
+  height: 465px;
+}
+.caro-2-bg{
+  background-color: #856ceb;
+}
+.caro-3-bg{
+  background-color: white;
+}
+.caro-4-bg{
+  background-color: black;
+}
+.caro-1-text-color{
+  color: #191d24;
+}
+.caro-4-text-color{
+  color: white;
+}
+.car-4-btn{
+  background-color: white;
+  color: black;
+}
+.car-4-btn:hover{
+  color: white;
+}
+
+.card-body{
+  background-color: #dadbda;
+  color: black;
+}
+.card-height{
+  height: 425px;
+}
+.card-img{
+  width: 266px;
+  height: 150px;
+}
+.cart{
+  background-color: #dadbda;
+  color: #191d24;
+  border-radius: 15px;
+  height: 440px;
+}
+.cart-icon{
+  margin-top: 15px;
+}
+.upcoming-card-height{
+  height: 500px;
+}
+.review{
+  width: 400px;
+  height: 100%;
+}
+.review-img{
+  width: 395px;
+  height: 265px;
+}
+#news-letter{
+  height: 400px;
+}
+.input{
+  width: 400px;
+}
+.news-letter-title{
+  color: #191d24;
+}
+.form-control{
+  margin-left: 400px;
+}
+.input-group{
+  margin-top: 40px;
+}
+.contact-info{
+  color: #191d24;
+}
